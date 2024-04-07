@@ -60,3 +60,24 @@ button {
     border: none;
     border-radius: 10px;
 }
+
+.sectionHeader {
+    text-align: center;
+}
+
+.divContainer {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+    gap: 30px;
+}
+.divContainer img {
+    width: 120px;
+    height: 120px;
+    border: 2px solid #3882F6;border-radius: 10px;
+}
+.divContainer div {
+    width: 120px;
+    text-align: center;
+
+}
