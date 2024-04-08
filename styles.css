@@ -115,3 +115,18 @@ img {
     border-radius: 5px;
     padding: 3px 15px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quote div {
+    width: 60%;
+}
+.quoteName {
+    display: flex;
+    justify-content: flex-end;
+}
